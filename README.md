@@ -1,3 +1,3 @@
-<h1>Electronic Gallery</h1>
+Electronic Gallery
 ===========================
 <h2>Electronic Gallery written on C#. Coursework.</h2>
