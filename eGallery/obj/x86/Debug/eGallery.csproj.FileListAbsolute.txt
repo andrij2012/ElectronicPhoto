@@ -1,0 +1,9 @@
+C:\Documents and Settings\Andriy\My Documents\Visual Studio 2010\Projects\eGallery\eGallery\eGallery\bin\Debug\eGallery.exe
+C:\Documents and Settings\Andriy\My Documents\Visual Studio 2010\Projects\eGallery\eGallery\eGallery\bin\Debug\eGallery.pdb
+C:\Documents and Settings\Andriy\My Documents\Visual Studio 2010\Projects\eGallery\eGallery\eGallery\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Andriy\My Documents\Visual Studio 2010\Projects\eGallery\eGallery\eGallery\obj\x86\Debug\eGallery.Properties.Resources.resources
+C:\Documents and Settings\Andriy\My Documents\Visual Studio 2010\Projects\eGallery\eGallery\eGallery\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Andriy\My Documents\Visual Studio 2010\Projects\eGallery\eGallery\eGallery\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Andriy\My Documents\Visual Studio 2010\Projects\eGallery\eGallery\eGallery\obj\x86\Debug\eGallery.exe
+C:\Documents and Settings\Andriy\My Documents\Visual Studio 2010\Projects\eGallery\eGallery\eGallery\obj\x86\Debug\eGallery.pdb
+C:\Documents and Settings\Andriy\My Documents\Visual Studio 2010\Projects\eGallery\eGallery\eGallery\obj\x86\Debug\eGallery.MainForm.resources
