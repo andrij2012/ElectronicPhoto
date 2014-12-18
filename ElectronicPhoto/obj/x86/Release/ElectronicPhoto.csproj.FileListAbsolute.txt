@@ -1,0 +1,16 @@
+C:\Users\andriy\documents\visual studio 2010\Projects\ElectronicPhoto\ElectronicPhoto\bin\Release\Resources\Database\ElectronicPhoto.sdf
+C:\Users\andriy\documents\visual studio 2010\Projects\ElectronicPhoto\ElectronicPhoto\bin\Release\Resources\ElectronicPhoto.sdf
+C:\Users\andriy\documents\visual studio 2010\Projects\ElectronicPhoto\ElectronicPhoto\obj\x86\Release\ElectronicPhoto.MainForm.resources
+C:\Users\andriy\documents\visual studio 2010\Projects\ElectronicPhoto\ElectronicPhoto\obj\x86\Release\ElectronicPhoto.NewImageForm.resources
+C:\Users\andriy\documents\visual studio 2010\Projects\ElectronicPhoto\ElectronicPhoto\obj\x86\Release\ElectronicPhoto.Properties.Resources.resources
+C:\Users\andriy\documents\visual studio 2010\Projects\ElectronicPhoto\ElectronicPhoto\obj\x86\Release\ElectronicPhoto.csproj.GenerateResource.Cache
+C:\Users\andriy\documents\visual studio 2010\Projects\ElectronicPhoto\ElectronicPhoto\bin\Release\Electronic Photo.exe.config
+C:\Users\andriy\documents\visual studio 2010\Projects\ElectronicPhoto\ElectronicPhoto\bin\Release\Electronic Photo.exe
+C:\Users\andriy\documents\visual studio 2010\Projects\ElectronicPhoto\ElectronicPhoto\bin\Release\Electronic Photo.pdb
+C:\Users\andriy\documents\visual studio 2010\Projects\ElectronicPhoto\ElectronicPhoto\obj\x86\Release\Electronic Photo.exe
+C:\Users\andriy\documents\visual studio 2010\Projects\ElectronicPhoto\ElectronicPhoto\obj\x86\Release\Electronic Photo.pdb
+C:\Users\andriy\documents\visual studio 2010\Projects\ElectronicPhoto\ElectronicPhoto\bin\Release\Electronic Photo.exe.manifest
+C:\Users\andriy\documents\visual studio 2010\Projects\ElectronicPhoto\ElectronicPhoto\bin\Release\Electronic Photo.application
+C:\Users\andriy\documents\visual studio 2010\Projects\ElectronicPhoto\ElectronicPhoto\obj\x86\Release\Electronic Photo.TrustInfo.xml
+C:\Users\andriy\documents\visual studio 2010\Projects\ElectronicPhoto\ElectronicPhoto\obj\x86\Release\Electronic Photo.exe.manifest
+C:\Users\andriy\documents\visual studio 2010\Projects\ElectronicPhoto\ElectronicPhoto\obj\x86\Release\Electronic Photo.application

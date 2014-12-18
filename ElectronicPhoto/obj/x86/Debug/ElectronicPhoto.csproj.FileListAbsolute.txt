@@ -1,0 +1,12 @@
+c:\users\andriy\documents\visual studio 2010\Projects\ElectronicPhoto\ElectronicPhoto\bin\Debug\Resources\ElectronicPhoto.sdf
+c:\users\andriy\documents\visual studio 2010\Projects\ElectronicPhoto\ElectronicPhoto\bin\Debug\ElectronicPhoto.exe.config
+c:\users\andriy\documents\visual studio 2010\Projects\ElectronicPhoto\ElectronicPhoto\bin\Debug\ElectronicPhoto.exe
+c:\users\andriy\documents\visual studio 2010\Projects\ElectronicPhoto\ElectronicPhoto\bin\Debug\ElectronicPhoto.pdb
+c:\users\andriy\documents\visual studio 2010\Projects\ElectronicPhoto\ElectronicPhoto\obj\x86\Debug\ElectronicPhoto.MainForm.resources
+c:\users\andriy\documents\visual studio 2010\Projects\ElectronicPhoto\ElectronicPhoto\obj\x86\Debug\ElectronicPhoto.Properties.Resources.resources
+c:\users\andriy\documents\visual studio 2010\Projects\ElectronicPhoto\ElectronicPhoto\obj\x86\Debug\ElectronicPhoto.csproj.GenerateResource.Cache
+c:\users\andriy\documents\visual studio 2010\Projects\ElectronicPhoto\ElectronicPhoto\obj\x86\Debug\ElectronicPhoto.exe
+c:\users\andriy\documents\visual studio 2010\Projects\ElectronicPhoto\ElectronicPhoto\obj\x86\Debug\ElectronicPhoto.pdb
+C:\Users\andriy\documents\visual studio 2010\Projects\ElectronicPhoto\ElectronicPhoto\obj\x86\Debug\ElectronicPhoto.csprojResolveAssemblyReference.cache
+C:\Users\andriy\documents\visual studio 2010\Projects\ElectronicPhoto\ElectronicPhoto\obj\x86\Debug\ElectronicPhoto.NewImageForm.resources
+C:\Users\andriy\documents\visual studio 2010\Projects\ElectronicPhoto\ElectronicPhoto\bin\Debug\Resources\Database\ElectronicPhoto.sdf

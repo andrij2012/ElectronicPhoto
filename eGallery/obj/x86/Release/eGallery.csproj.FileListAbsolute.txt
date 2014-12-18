@@ -1,5 +1,0 @@
-C:\Documents and Settings\Andriy\My Documents\Visual Studio 2010\Projects\eGallery\eGallery\eGallery\obj\x86\Release\ResolveAssemblyReference.cache
-C:\Documents and Settings\Andriy\My Documents\Visual Studio 2010\Projects\eGallery\eGallery\eGallery\obj\x86\Release\eGallery.MainForm.resources
-C:\Documents and Settings\Andriy\My Documents\Visual Studio 2010\Projects\eGallery\eGallery\eGallery\obj\x86\Release\eGallery.Properties.Resources.resources
-C:\Documents and Settings\Andriy\My Documents\Visual Studio 2010\Projects\eGallery\eGallery\eGallery\obj\x86\Release\GenerateResource.read.1.tlog
-C:\Documents and Settings\Andriy\My Documents\Visual Studio 2010\Projects\eGallery\eGallery\eGallery\obj\x86\Release\GenerateResource.write.1.tlog
